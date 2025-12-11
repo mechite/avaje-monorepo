@@ -1,0 +1,39 @@
+[submodule "avaje-inject"]
+	path = avaje-inject
+	url = git@github.com:avaje/avaje-inject
+[submodule "avaje-config"]
+	path = avaje-config
+	url = git@github.com:avaje/avaje-config
+[submodule "avaje-http"]
+	path = avaje-http
+	url = git@github.com:avaje/avaje-http
+[submodule "avaje-http-client"]
+	path = avaje-http-client
+	url = git@github.com:avaje/avaje-http-client
+[submodule "avaje-jsonb"]
+	path = avaje-jsonb
+	url = git@github.com:avaje/avaje-jsonb
+[submodule "avaje-validator"]
+	path = avaje-validator
+	url = git@github.com:avaje/avaje-validator
+[submodule "avaje-jex"]
+	path = avaje-jex
+	url = git@github.com:avaje/avaje-jex
+[submodule "avaje-nima"]
+	path = avaje-nima
+	url = git@github.com:avaje/avaje-nima
+[submodule "avaje-sigma"]
+	path = avaje-sigma
+	url = git@github.com:avaje/avaje-sigma
+[submodule "avaje-record-builder"]
+	path = avaje-record-builder
+	url = git@github.com:avaje/avaje-record-builder
+[submodule "avaje-spi-service"]
+	path = avaje-spi-service
+	url = git@github.com:avaje/avaje-spi-service
+[submodule "avaje-prisms"]
+	path = avaje-prisms
+	url = git@github.com:avaje/avaje-prisms
+[submodule "avaje-simple-logger"]
+	path = avaje-simple-logger
+	url = git@github.com:avaje/avaje-simple-logger
