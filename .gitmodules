@@ -7,9 +7,6 @@
 [submodule "avaje-http"]
 	path = avaje-http
 	url = git@github.com:avaje/avaje-http
-[submodule "avaje-http-client"]
-	path = avaje-http-client
-	url = git@github.com:avaje/avaje-http-client
 [submodule "avaje-jsonb"]
 	path = avaje-jsonb
 	url = git@github.com:avaje/avaje-jsonb
